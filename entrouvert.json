@@ -1,17 +1,17 @@
 {
-        "title": "Entrou'vert",
+        "title": "Entr'ouvert",
         "logo": "https://www.entrouvert.com/static/entrouvert/img/logo.png",
         "country": "fr",
-        "presence": ["fr"],
-        "website": "https://www.entrouvert.com/i",
+        "presence": ["fr", "be"],
+        "website": "https://www.entrouvert.com/",
         "founded_year": "2002",
         "kpi_dict": {
           "2018": {
-            "staff": "",
-            "earnings": "",
-            "total_assets": "",
-            "revenues": "",
-            "public_source": ""
+            "staff": "14",
+            "earnings": "949700",
+            "total_assets": "2610100",
+            "revenues": "2154800",
+            "public_source": "true"
           },
           "2017": {
             "staff": "8",
@@ -29,6 +29,17 @@
           }
         },
         "free_software_list": [{
+                "title": "Publik GRU",
+                "logo": "https://publik.entrouvert.com/static/img/logo-publik.png",
+                "website": "https://publik.entrouvert.com/",
+                "category_list": ["Communication"],
+                "source_code_download": "https://www.entrouvert.com/e-administration/les-logiciels/",
+                "source_code_profile": "",
+                "commercial_support": "https://www.entrouvert.com/e-administration/",
+                "wikipedia_url": "",
+                "success_case_list": []
+        }        },
+        "free_software_list": [{
                 "title": "Authentic 2",
                 "logo": "https://dev.entrouvert.org/themes/eoredmine/images/eo-sansnom.png",
                 "website": "https://dev.entrouvert.org/projects/authentic",
@@ -40,10 +51,10 @@
                 "success_case_list": []
         }, {
                 "title": "Lasso",
-                "logo": "https://dev.entrouvert.org/themes/eoredmine/images/eo-sansnom.png",
-                "website": "http://dev.entrouvert.org/projects/lasso",
+                "logo": "https://lasso.entrouvert.org/css/lasso.png",
+                "website": "https://lasso.entrouvert.org/",
                 "category_list": ["Middleware"],
-                "source_code_download": "https://dev.entrouvert.org/projects/lasso/wiki/Download_page",
+                "source_code_download": "",
                 "source_code_profile": "https://www.openhub.net/p/p_3888/analyses/latest/languages_summary",
                 "commercial_support": "https://www.entrouvert.com/identite-numerique/services/",
                 "wikipedia_url": "",
